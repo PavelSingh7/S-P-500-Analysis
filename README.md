@@ -40,4 +40,4 @@ List of companies in the S&P 500 (Standard and Poor’s 500). The S&P 500 is a f
 We uploaded all the Datasets into Tableau.
 The tables Index Performance, List Of Companies, Market Capitalization are Related to each other therefore, we just joined the tables with common Column and formed our Database for Tableau Visualization.
 
-
+# For insights on the Project Check the Report file as well as Tableau Workbook above.
