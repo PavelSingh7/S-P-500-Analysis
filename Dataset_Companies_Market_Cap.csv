@@ -1,0 +1,503 @@
+﻿Company (Companies!Market!Cap),Sector,Ticker,Market Capitalization,Market Capitalization $T
+Apple Inc.,Electronic Technology,AAPL,2122302102525,2.122302103
+Microsoft Corporation,Technology Services,MSFT,1777966348754,1.777966349
+Alphabet Inc.,Technology Services,GOOG,1184242673454,1.184242673
+Alphabet Inc.,Technology Services,GOOGL,1184242673454,1.184242673
+"Amazon.com, Inc.",Retail Trade,AMZN,971911570617,0.971911571
+Berkshire Hathaway Inc. New,Finance,BRK.B,703424304407,0.703424304
+Exxon Mobil Corporation,Energy Minerals,XOM,466273190232,0.466273190
+UnitedHealth Group Incorporated,Health Services,UNH,463128811145,0.463128811
+Visa Inc.,Commercial Services,V,461034533556,0.461034534
+Johnson & Johnson,Health Technology,JNJ,454920111328,0.454920111
+JP Morgan Chase & Co.,Finance,JPM,409152792460,0.409152792
+NVIDIA Corporation,Electronic Technology,NVDA,406170601501,0.406170602
+Walmart Inc.,Retail Trade,WMT,390523608487,0.390523608
+"Tesla, Inc.",Consumer Durables,TSLA,390171883951,0.390171884
+Mastercard Incorporated,Commercial Services,MA,365172034245,0.365172034
+"Meta Platforms, Inc.",Technology Services,META,363402133359,0.363402133
+Procter & Gamble Company (The),Consumer Non-Durables,PG,355004268428,0.355004268
+Eli Lilly and Company,Health Technology,LLY,354496018315,0.354496018
+Chevron Corporation,Energy Minerals,CVX,342408717940,0.342408718
+"Home Depot, Inc. (The)",Retail Trade,HD,336198872307,0.336198872
+"Merck & Company, Inc.",Health Technology,MRK,283381201972,0.283381202
+Bank of America Corporation,Finance,BAC,276533245276,0.276533245
+AbbVie Inc.,Health Technology,ABBV,269198099112,0.269198099
+"Pfizer, Inc.",Health Technology,PFE,267811227419,0.267811227
+Coca-Cola Company (The),Consumer Non-Durables,KO,264703477896,0.264703478
+Broadcom Inc.,Electronic Technology,AVGO,243184660701,0.243184661
+"PepsiCo, Inc.",Consumer Non-Durables,PEP,242173726507,0.242173727
+Oracle Corporation,Technology Services,ORCL,239373331806,0.239373332
+Thermo Fisher Scientific Inc,Health Technology,TMO,228077395391,0.228077395
+Costco Wholesale Corporation,Retail Trade,COST,214068194827,0.214068195
+"Cisco Systems, Inc.",Electronic Technology,CSCO,201297048340,0.201297048
+"Nike, Inc.",Consumer Non-Durables,NKE,198314644569,0.198314645
+Danaher Corporation,Health Technology,DHR,198231523107,0.198231523
+McDonald’s Corporation,Consumer Services,MCD,195330128788,0.195330129
+Abbott Laboratories,Health Technology,ABT,194164371689,0.194164372
+Accenture plc,Technology Services,ACN,186876986241,0.186876986
+"T-Mobile US, Inc.",Communications,TMUS,186511156901,0.186511157
+Walt Disney Company (The),Consumer Services,DIS,182012717162,0.182012717
+Verizon Communications Inc.,Communications,VZ,175594370543,0.175594371
+"NextEra Energy, Inc.",Utilities,NEE,169048004652,0.169048005
+Comcast Corporation,Consumer Services,CMCSA,167272677845,0.167272678
+Wells Fargo & Company,Finance,WFC,163203335085,0.163203335
+Linde plc,Process Industries,LIN,162606368616,0.162606369
+Texas Instruments Incorporated,Electronic Technology,TXN,161665754258,0.161665754
+Adobe Inc.,Technology Services,ADBE,160176647870,0.160176648
+"United Parcel Service, Inc.",Transportation,UPS,158218985196,0.158218985
+Philip Morris International Inc,Consumer Non-Durables,PM,157252522105,0.157252522
+Charles Schwab Corporation (The),Finance,SCHW,155835401032,0.155835401
+Morgan Stanley,Finance,MS,153005599656,0.153005600
+Bristol-Myers Squibb Company,Health Technology,BMY,152233063943,0.152233064
+ConocoPhillips,Energy Minerals,COP,149727915989,0.149727916
+"Salesforce, Inc.",Technology Services,CRM,149600006104,0.149600006
+Raytheon Technologies Corporation,Electronic Technology,RTX,148005720888,0.148005721
+"Netflix, Inc.",Technology Services,NFLX,146914622417,0.146914622
+Honeywell International Inc.,Electronic Technology,HON,145208160057,0.145208160
+Amgen Inc.,Health Technology,AMGN,144557273896,0.144557274
+AT&T Inc.,Communications,T,138335068913,0.138335069
+QUALCOMM Incorporated,Electronic Technology,QCOM,136302385895,0.136302386
+"Caterpillar, Inc.",Producer Manufacturing,CAT,132740819979,0.132740820
+Union Pacific Corporation,Transportation,UNP,131991594331,0.131991594
+International Business Machines Corporation,Technology Services,IBM,131595600834,0.131595601
+Deere & Company,Producer Manufacturing,DE,130058278492,0.130058278
+Boeing Company (The),Electronic Technology,BA,127731127075,0.127731127
+"Lowe’s Companies, Inc.",Retail Trade,LOW,127144760242,0.127144760
+"Goldman Sachs Group, Inc. (The)",Finance,GS,125274478284,0.125274478
+Intel Corporation,Electronic Technology,INTC,125006833778,0.125006834
+Starbucks Corporation,Consumer Services,SBUX,121494633417,0.121494633
+Lockheed Martin Corporation,Electronic Technology,LMT,121010034477,0.121010034
+S&P Global Inc.,Commercial Services,SPGI,119819457931,0.119819458
+CVS Health Corporation,Retail Trade,CVS,117179570233,0.117179570
+American Express Company,Finance,AXP,115761283251,0.115761283
+"Prologis, Inc.",Finance,PLD,115332762554,0.115332763
+"Advanced Micro Devices, Inc.",Electronic Technology,AMD,114154815321,0.114154815
+"Elevance Health, Inc.",Health Services,ELV,113939856600,0.113939857
+"BlackRock, Inc.",Finance,BLK,113241456689,0.113241457
+Intuit Inc.,Technology Services,INTU,111443091363,0.111443091
+American Tower Corporation (REIT),Finance,AMT,108118277370,0.108118277
+"Gilead Sciences, Inc.",Health Technology,GILD,107513788338,0.107513788
+Medtronic plc.,Health Technology,MDT,106214875259,0.106214875
+"Automatic Data Processing, Inc.",Technology Services,ADP,101325833537,0.101325834
+Stryker Corporation,Health Technology,SYK,97010515286,0.097010515
+"Citigroup, Inc.",Finance,C,95080109415,0.095080109
+Cigna Corporation,Health Services,CI,94846357195,0.094846357
+"TJX Companies, Inc. (The)",Retail Trade,TJX,94658897884,0.094658898
+Chubb Limited,Finance,CB,93635348627,0.093635349
+"Estee Lauder Companies, Inc. (The)",Consumer Non-Durables,EL,93574031756,0.093574032
+"Applied Materials, Inc.",Producer Manufacturing,AMAT,93024200134,0.093024200
+"Mondelez International, Inc.",Consumer Non-Durables,MDLZ,91168695998,0.091168696
+"PayPal Holdings, Inc.",Commercial Services,PYPL,90951409309,0.090951409
+"Intuitive Surgical, Inc.",Health Technology,ISRG,90798627654,0.090798628
+Booking Holdings Inc. Common Stock,Consumer Services,BKNG,87538725092,0.087538725
+"Marsh & McLennan Companies, Inc.",Finance,MMC,86385014763,0.086385015
+General Electric Company,Producer Manufacturing,GE,86167806309,0.086167806
+"Analog Devices, Inc.",Electronic Technology,ADI,85902943404,0.085902943
+"ServiceNow, Inc.",Technology Services,NOW,83643823454,0.083643823
+Schlumberger N.V.,Industrial Services,SLB,82243638916,0.082243639
+"Altria Group, Inc.",Consumer Non-Durables,MO,81364639112,0.081364639
+Duke Energy Corporation (Holding Company),Utilities,DUK,80918194564,0.080918195
+"Regeneron Pharmaceuticals, Inc.",Health Technology,REGN,77805087767,0.077805088
+Progressive Corporation (The),Finance,PGR,77779167632,0.077779168
+"EOG Resources, Inc.",Energy Minerals,EOG,76624961922,0.076624962
+Southern Company (The),Utilities,SO,76577244392,0.076577244
+Vertex Pharmaceuticals Incorporated,Health Technology,VRTX,76044847183,0.076044847
+Northrop Grumman Corporation,Electronic Technology,NOC,75106055162,0.075106055
+Zoetis Inc.,Health Technology,ZTS,74529573782,0.074529574
+Target Corporation,Retail Trade,TGT,73534536736,0.073534537
+"Becton, Dickinson and Company",Health Technology,BDX,72374628133,0.072374628
+"Moderna, Inc.",Health Technology,MRNA,72248980311,0.072248980
+"HCA Healthcare, Inc.",Health Services,HCA,72135157851,0.072135158
+3M Company,Health Technology,MMM,71497300066,0.071497300
+Illinois Tool Works Inc.,Producer Manufacturing,ITW,71365539926,0.071365540
+U.S. Bancorp,Finance,USB,70710339941,0.070710340
+"Air Products and Chemicals, Inc.",Process Industries,APD,68825039664,0.068825040
+CSX Corporation,Transportation,CSX,68307261913,0.068307262
+"PNC Financial Services Group, Inc. (The)",Finance,PNC,68088321727,0.068088322
+General Dynamics Corporation,Electronic Technology,GD,68005781685,0.068005782
+"Equinix, Inc.",Technology Services,EQIX,67121599875,0.067121600
+Boston Scientific Corporation,Distribution Services,BSX,66903258545,0.066903259
+"Eaton Corporation, PLC",Producer Manufacturing,ETN,65505171681,0.065505172
+Crown Castle Inc.,Finance,CCI,65498510628,0.065498511
+Aon plc,Finance,AON,65338635818,0.065338636
+"Fiserv, Inc.",Finance,FISV,65039574399,0.065039574
+"Freeport-McMoRan, Inc.",Non-Energy Minerals,FCX,64462657719,0.064462658
+Colgate-Palmolive Company,Consumer Non-Durables,CL,64177853946,0.064177854
+Lam Research Corporation,Producer Manufacturing,LRCX,64103750254,0.064103750
+CME Group Inc.,Finance,CME,63565312910,0.063565313
+Sherwin-Williams Company (The),Process Industries,SHW,63163621690,0.063163622
+"Waste Management, Inc.",Industrial Services,WM,62671637766,0.062671638
+Truist Financial Corporation,Finance,TFC,62596831389,0.062596831
+Humana Inc.,Health Services,HUM,62577272715,0.062577273
+"Micron Technology, Inc.",Electronic Technology,MU,62491679437,0.062491679
+Intercontinental Exchange Inc.,Finance,ICE,60898884163,0.060898884
+"Activision Blizzard, Inc",Technology Services,ATVI,60183887162,0.060183887
+"Charter Communications, Inc.",Consumer Services,CHTR,60006997040,0.060006997
+Occidental Petroleum Corporation,Energy Minerals,OXY,59752012540,0.059752013
+KLA Corporation,Electronic Technology,KLAC,59389898554,0.059389899
+Norfolk Southern Corporation,Transportation,NSC,58843969176,0.058843969
+Emerson Electric Company,Electronic Technology,EMR,57986774199,0.057986774
+Moody’s Corporation,Commercial Services,MCO,57231677928,0.057231678
+Pioneer Natural Resources Company,Energy Minerals,PXD,56828864803,0.056828865
+Marathon Petroleum Corporation,Energy Minerals,MPC,56712651446,0.056712651
+"MetLife, Inc.",Finance,MET,56013036223,0.056013036
+General Motors Company,Consumer Durables,GM,54455310077,0.054455310
+McKesson Corporation,Distribution Services,MCK,54000631279,0.054000631
+Ford Motor Company,Consumer Durables,F,53995237874,0.053995238
+"Dominion Energy, Inc.",Utilities,D,52421343178,0.052421343
+Monster Beverage Corporation,Consumer Non-Durables,MNST,52195235458,0.052195235
+Valero Energy Corporation,Energy Minerals,VLO,52169013738,0.052169014
+Public Storage,Finance,PSA,52003014290,0.052003014
+Dollar General Corporation,Retail Trade,DG,51994554613,0.051994555
+The Kraft Heinz Company,Consumer Non-Durables,KHC,51973787732,0.051973788
+"Synopsys, Inc.",Technology Services,SNPS,50770167103,0.050770167
+"O’Reilly Automotive, Inc.",Retail Trade,ORLY,50739674010,0.050739674
+Marriott International,Consumer Services,MAR,50643174233,0.050643174
+DBA Sempra,Utilities,SRE,50585667579,0.050585668
+Keurig Dr Pepper Inc.,Consumer Non-Durables,KDP,50376055488,0.050376055
+"American Electric Power Company, Inc.",Utilities,AEP,49541602018,0.049541602
+"General Mills, Inc.",Consumer Non-Durables,GIS,48660571818,0.048660572
+Phillips 66,Energy Minerals,PSX,48614951740,0.048614952
+FedEx Corporation,Transportation,FDX,48432487137,0.048432487
+Amphenol Corporation,Electronic Technology,APH,48143149474,0.048143149
+Edwards Lifesciences Corporation,Health Technology,EW,48069753723,0.048069754
+Archer-Daniels-Midland Company,Process Industries,ADM,48006317895,0.048006318
+"Roper Technologies, Inc.",Technology Services,ROP,47853870105,0.047853870
+"American International Group, Inc. New",Finance,AIG,47312965383,0.047312965
+Johnson Controls International plc,Producer Manufacturing,JCI,46956807884,0.046956808
+Hess Corporation,Energy Minerals,HES,46471334619,0.046471335
+"Agilent Technologies, Inc.",Health Technology,A,46332312268,0.046332312
+"Cadence Design Systems, Inc.",Technology Services,CDNS,46101547890,0.046101548
+Kimberly-Clark Corporation,Consumer Non-Durables,KMB,45979925006,0.045979925
+The Hershey Company,Consumer Non-Durables,HSY,45977462491,0.045977462
+Cintas Corporation,Consumer Services,CTAS,45346106019,0.045346106
+"The Travelers Companies, Inc.",Finance,TRV,44992384374,0.044992384
+"AutoZone, Inc.",Retail Trade,AZO,44853110203,0.044853110
+"Corteva, Inc.",Process Industries,CTVA,44712910943,0.044712911
+AFLAC Incorporated,Finance,AFL,44644421526,0.044644422
+Centene Corporation,Health Services,CNC,44270183878,0.044270184
+"Motorola Solutions, Inc.",Electronic Technology,MSI,44260357986,0.044260358
+NXP Semiconductors N.V.,Electronic Technology,NXPI,44107345780,0.044107346
+Ecolab Inc.,Process Industries,ECL,43686929842,0.043686930
+"Paychex, Inc.",Technology Services,PAYX,43201915795,0.043201916
+"Autodesk, Inc.",Technology Services,ADSK,43144871115,0.043144871
+Exelon Corporation,Utilities,EXC,43108529212,0.043108529
+"Kinder Morgan, Inc.",Industrial Services,KMI,42459843938,0.042459844
+Newmont Corporation,Non-Energy Minerals,NEM,42385651504,0.042385652
+"Chipotle Mexican Grill, Inc.",Consumer Services,CMG,41927348392,0.041927348
+Devon Energy Corporation,Energy Minerals,DVN,41856410984,0.041856411
+Realty Income Corporation,Finance,O,41737091938,0.041737092
+Trane Technologies plc,Producer Manufacturing,TT,41540525991,0.041540526
+Biogen Inc.,Health Technology,BIIB,41483922476,0.041483922
+"DexCom, Inc.",Health Technology,DXCM,41383694492,0.041383694
+Microchip Technology Incorporated,Electronic Technology,MCHP,41382650930,0.041382651
+"Simon Property Group, Inc.",Finance,SPG,41191896897,0.041191897
+"Constellation Brands, Inc.",Consumer Non-Durables,STZ,41188739883,0.041188740
+Dow Inc.,Process Industries,DOW,41183993232,0.041183993
+Arthur J. Gallagher & Co.,Finance,AJG,41111692044,0.041111692
+"Fidelity National Information Services, Inc.",Commercial Services,FIS,41109327957,0.041109328
+"Ross Stores, Inc.",Retail Trade,ROST,40894056511,0.040894057
+Las Vegas Sands Corp.,Consumer Services,LVS,40882894897,0.040882895
+"IQVIA Holdings, Inc.",Health Services,IQV,40769934555,0.040769935
+Sysco Corporation,Transportation,SYY,40668093246,0.040668093
+Parker-Hannifin Corporation,Producer Manufacturing,PH,40470917420,0.040470917
+MSCI Inc,Technology Services,MSCI,40302909774,0.040302910
+"Williams Companies, Inc. (The)",Energy Minerals,WMB,40156480135,0.040156480
+Nucor Corporation,Non-Energy Minerals,NUE,39946421432,0.039946421
+TE Connectivity Ltd. New Switzerland Registered Shares,Electronic Technology,TEL,39377828579,0.039377829
+Xcel Energy Inc.,Utilities,XEL,39374526043,0.039374526
+"Republic Services, Inc.",Industrial Services,RSG,38953435558,0.038953436
+The Bank of New York Mellon Corporation,Finance,BK,38926760209,0.038926760
+"IDEXX Laboratories, Inc.",Health Technology,IDXX,38899951491,0.038899951
+Capital One Financial Corporation,Finance,COF,38559185973,0.038559186
+Halliburton Company,Energy Minerals,HAL,38292329908,0.038292330
+"L3Harris Technologies, Inc.",Electronic Technology,LHX,38032959602,0.038032960
+Carrier Global Corporation,Producer Manufacturing,CARR,37840831726,0.037840832
+"Fortinet, Inc.",Electronic Technology,FTNT,37811824703,0.037811825
+"DuPont de Nemours, Inc.",Process Industries,DD,37134973297,0.037134973
+Transdigm Group Inc.,Electronic Technology,TDG,36985603214,0.036985603
+"Prudential Financial, Inc.",Finance,PRU,36652799438,0.036652799
+Hilton Worldwide Holdings Inc.,Consumer Services,HLT,36511563263,0.036511563
+Allstate Corporation (The),Finance,ALL,36352276909,0.036352277
+"Yum! Brands, Inc.",Consumer Services,YUM,36306748904,0.036306749
+"Arista Networks, Inc.",Electronic Technology,ANET,35807001092,0.035807001
+Cummins Inc.,Producer Manufacturing,CMI,35271131608,0.035271132
+PACCAR Inc.,Producer Manufacturing,PCAR,35260151440,0.035260151
+"Ameriprise Financial, Inc.",Finance,AMP,35242184951,0.035242185
+Electronic Arts Inc.,Technology Services,EA,34902062261,0.034902062
+"Consolidated Edison, Inc.",Utilities,ED,34609773718,0.034609774
+"Old Dominion Freight Line, Inc.",Transportation,ODFL,34608370102,0.034608370
+Otis Worldwide Corporation,Producer Manufacturing,OTIS,34534984974,0.034534985
+"Mettler-Toledo International, Inc.",Health Technology,MTD,34248555909,0.034248556
+Welltower Inc.,Finance,WELL,34068793902,0.034068794
+AmerisourceBergen Corporation,Distribution Services,ABC,33914754987,0.033914755
+Cognizant Technology Solutions Corporation,Technology Services,CTSH,33456285465,0.033456285
+"AMETEK, Inc.",Producer Manufacturing,AME,33426196937,0.033426197
+SBA Communications Corporation,Finance,SBAC,33084959736,0.033084960
+"D.R. Horton, Inc.",Consumer Durables,DHI,32935336621,0.032935337
+"Enphase Energy, Inc.",Electronic Technology,ENPH,32855448887,0.032855449
+VICI Properties Inc.,Finance,VICI,32764591012,0.032764591
+Kroger Company (The),Retail Trade,KR,32691584836,0.032691585
+"CoStar Group, Inc.",Technology Services,CSGP,32665345774,0.032665346
+"Dollar Tree, Inc.",Retail Trade,DLTR,32430067196,0.032430067
+"Rockwell Automation, Inc.",Electronic Technology,ROK,32290690074,0.032290690
+"Warner Bros. Discovery, Inc. – Series A",Consumer Services,WBD,31933406422,0.031933406
+Keysight Technologies Inc.,Electronic Technology,KEYS,31811287192,0.031811287
+Baker Hughes Company,Industrial Services,BKR,31766729095,0.031766729
+Pacific Gas & Electric Co.,Utilities,PCG,31743570700,0.031743571
+"ONEOK, Inc.",Industrial Services,OKE,31702437243,0.031702437
+"Walgreens Boots Alliance, Inc.",Retail Trade,WBA,31619379646,0.031619380
+Brown Forman Inc,Consumer Non-Durables,BF.B,31445486283,0.031445486
+ResMed Inc.,Health Technology,RMD,31347502777,0.031347503
+Public Service Enterprise Group Incorporated,Utilities,PEG,31329054477,0.031329054
+"Nasdaq, Inc.",Finance,NDAQ,30945699113,0.030945699
+"PPG Industries, Inc.",Process Industries,PPG,30934303862,0.030934304
+Corning Incorporated,Electronic Technology,GLW,30905949380,0.030905949
+"Digital Realty Trust, Inc.",Finance,DLR,30845389615,0.030845390
+"WEC Energy Group, Inc.",Utilities,WEC,30552989717,0.030552990
+LyondellBasell Industries NV,Process Industries,LYB,30501241699,0.030501242
+"Illumina, Inc.",Health Technology,ILMN,30476875591,0.030476876
+State Street Corporation,Finance,STT,30224861578,0.030224862
+"Copart, Inc.",Commercial Services,CPRT,29797327890,0.029797328
+Eversource Energy (D/B/A),Utilities,ES,29651408309,0.029651408
+"International Flavors & Fragrances, Inc.",Consumer Non-Durables,IFF,29473635683,0.029473636
+Global Payments Inc.,Commercial Services,GPN,29297964576,0.029297965
+"American Water Works Company, Inc.",Utilities,AWK,28987000434,0.028987000
+Discover Financial Services,Finance,DFS,28978321161,0.028978321
+"W.W. Grainger, Inc.",Distribution Services,GWW,28930022866,0.028930023
+"Verisk Analytics, Inc.",Technology Services,VRSK,28612741244,0.028612741
+Albemarle Corporation,Process Industries,ALB,28492731787,0.028492732
+Lennar Corporation,Consumer Durables,LEN,28247470443,0.028247470
+ON Semiconductor Corporation,Electronic Technology,ON,28077261459,0.028077261
+Fastenal Company,Distribution Services,FAST,28076689957,0.028076690
+HP Inc.,Electronic Technology,HPQ,28040262211,0.028040262
+Constellation Energy Corporation,Utilities,CEG,27580689654,0.027580690
+Willis Towers Watson Public Limited Company,Finance,WTW,27571367841,0.027571368
+Aptiv PLC,Producer Manufacturing,APTV,27547443807,0.027547444
+"United Rentals, Inc.",Finance,URI,27152985166,0.027152985
+CBRE Group Inc,Finance,CBRE,27054670630,0.027054671
+"T. Rowe Price Group, Inc.",Finance,TROW,26719687650,0.026719688
+"Gartner, Inc.",Technology Services,IT,26546660585,0.026546661
+"Equifax, Inc.",Commercial Services,EFX,26472268768,0.026472269
+CDW Corporation,Technology Services,CDW,26183263708,0.026183264
+Edison International,Utilities,EIX,26139321695,0.026139322
+"Zimmer Biomet Holdings, Inc.",Health Technology,ZBH,25853813373,0.025853813
+M&T Bank Corporation,Finance,MTB,25831948062,0.025831948
+"Alexandria Real Estate Equities, Inc.",Finance,ARE,25577926050,0.025577926
+"Diamondback Energy, Inc.",Energy Minerals,FANG,25577874089,0.025577874
+Hormel Foods Corporation,Consumer Non-Durables,HRL,25425117095,0.025425117
+"Delta Air Lines, Inc.",Transportation,DAL,25391057860,0.025391058
+eBay Inc.,Retail Trade,EBAY,25195660211,0.025195660
+"Ulta Beauty, Inc.",Retail Trade,ULTA,25024687355,0.025024687
+FirstEnergy Corp.,Utilities,FE,24636844347,0.024636844
+DTE Energy Company,Utilities,DTE,24550067783,0.024550068
+"Raymond James Financial, Inc.",Finance,RJF,24480689826,0.024480690
+Tractor Supply Company,Retail Trade,TSCO,24383656553,0.024383657
+"Hartford Financial Services Group, Inc. (The)",Finance,HIG,24255044022,0.024255044
+Vulcan Materials Company (Holding Company),Non-Energy Minerals,VMC,24030889096,0.024030889
+Kellogg Company,Consumer Non-Durables,K,23971587840,0.023971588
+Fifth Third Bancorp,Finance,FITB,23955227701,0.023955228
+Genuine Parts Company,Distribution Services,GPC,23849209049,0.023849209
+"AvalonBay Communities, Inc.",Finance,AVB,23820320487,0.023820320
+Fortive Corporation,Electronic Technology,FTV,23733458598,0.023733459
+Weyerhaeuser Company,Finance,WY,23645013745,0.023645014
+Arch Capital Group Ltd.,Finance,ACGL,23327891029,0.023327891
+Equity Residential,Finance,EQR,23249571811,0.023249572
+Ingersoll Rand Inc.,Producer Manufacturing,IR,23238688587,0.023238689
+Ameren Corporation,Utilities,AEE,23202366219,0.023202366
+FIRST REPUBLIC BANK,Finance,FRC,22901145433,0.022901145
+"Tyson Foods, Inc.",Consumer Non-Durables,TSN,22743994852,0.022743995
+Baxter International Inc.,Health Technology,BAX,22730805058,0.022730805
+PPL Corporation,Utilities,PPL,22619697619,0.022619698
+"VeriSign, Inc.",Technology Services,VRSN,22575144528,0.022575145
+Laboratory Corporation of America Holdings,Health Services,LH,22356437777,0.022356438
+Southwest Airlines Company,Transportation,LUV,21951012688,0.021951013
+"ANSYS, Inc.",Technology Services,ANSS,21949670217,0.021949670
+"Martin Marietta Materials, Inc.",Non-Energy Minerals,MLM,21829845513,0.021829846
+Entergy Corporation,Utilities,ETR,21740193258,0.021740193
+"McCormick & Company, Incorporated",Consumer Non-Durables,MKC,21714785875,0.021714786
+Principal Financial Group Inc,Finance,PFG,21620172383,0.021620172
+Huntington Bancshares Incorporated,Finance,HBAN,21136056255,0.021136056
+"Quanta Services, Inc.",Industrial Services,PWR,21122219159,0.021122219
+Xylem Inc.,Producer Manufacturing,XYL,20939939674,0.020939940
+Hewlett Packard Enterprise Company,Electronic Technology,HPE,20919251328,0.020919251
+Regions Financial Corporation,Finance,RF,20894204582,0.020894205
+Extra Space Storage Inc,Finance,EXR,20638646153,0.020638646
+"Citizens Financial Group, Inc.",Finance,CFG,20600898043,0.020600898
+"Ventas, Inc.",Finance,VTR,20457230346,0.020457230
+Northern Trust Corporation,Finance,NTRS,20285097024,0.020285097
+"Cardinal Health, Inc.",Distribution Services,CAH,20058495341,0.020058495
+Dover Corporation,Producer Manufacturing,DOV,20056579760,0.020056580
+Coterra Energy Inc.,Energy Minerals,CTRA,20019185439,0.020019185
+STERIS plc (Ireland),Health Technology,STE,19987549307,0.019987549
+Waters Corporation,Health Technology,WAT,19943123216,0.019943123
+"Church & Dwight Company, Inc.",Consumer Non-Durables,CHD,19848444627,0.019848445
+"Hologic, Inc.",Health Technology,HOLX,19634743945,0.019634744
+"EPAM Systems, Inc.",Technology Services,EPAM,19611523974,0.019611524
+"CenterPoint Energy, Inc (Holding Co)",Utilities,CNP,19559672283,0.019559672
+Teledyne Technologies Incorporated,Electronic Technology,TDY,19504468471,0.019504468
+W.R. Berkley Corporation,Finance,WRB,19387721834,0.019387722
+"Steel Dynamics, Inc.",Non-Energy Minerals,STLD,19377817129,0.019377817
+Invitation Homes Inc.,Finance,INVH,19204385246,0.019204385
+"ConAgra Brands, Inc.",Consumer Non-Durables,CAG,19126861336,0.019126861
+"Best Buy Co., Inc.",Retail Trade,BBY,19117248824,0.019117249
+"First Solar, Inc.",Electronic Technology,FSLR,19066413298,0.019066413
+Westinghouse Air Brake Technologies Corporation,Producer Manufacturing,WAB,18839690836,0.018839691
+Garmin Ltd.,Electronic Technology,GRMN,18811816046,0.018811816
+"Monolithic Power Systems, Inc.",Electronic Technology,MPWR,18759902104,0.018759902
+CMS Energy Corporation,Utilities,CMS,18674786039,0.018674786
+"J.B. Hunt Transport Services, Inc.",Transportation,JBHT,18600497263,0.018600497
+"Mid-America Apartment Communities, Inc.",Finance,MAA,18532906392,0.018532906
+The AES Corporation,Utilities,AES,18495529434,0.018495529
+"Rollins, Inc.",Consumer Services,ROL,18492339845,0.018492340
+"Align Technology, Inc.",Health Technology,ALGN,18401707665,0.018401708
+"West Pharmaceutical Services, Inc.",Health Technology,WST,18366842202,0.018366842
+"Paycom Software, Inc.",Technology Services,PAYC,18262997097,0.018262997
+Amcor plc,Process Industries,AMCR,18166037997,0.018166038
+"Darden Restaurants, Inc.",Consumer Services,DRI,18097577646,0.018097578
+Ball Corporation,Process Industries,BALL,17940537967,0.017940538
+Incyte Corporation,Health Technology,INCY,17898150389,0.017898150
+IDEX Corporation,Producer Manufacturing,IEX,17818237724,0.017818238
+Clorox Company (The),Consumer Non-Durables,CLX,17621817489,0.017621817
+"Expeditors International of Washington, Inc.",Transportation,EXPD,17554334026,0.017554334
+"Take-Two Interactive Software, Inc.",Technology Services,TTWO,17501856420,0.017501856
+Molina Healthcare Inc,Health Services,MOH,17470360100,0.017470360
+"Brown & Brown, Inc.",Finance,BRO,17463492006,0.017463492
+Marathon Oil Corporation,Energy Minerals,MRO,17388156106,0.017388156
+"SolarEdge Technologies, Inc.",Producer Manufacturing,SEDG,17297227408,0.017297227
+"The Cooper Companies, Inc.",Health Technology,COO,17246889239,0.017246889
+Omnicom Group Inc.,Commercial Services,OMC,17200324616,0.017200325
+KeyCorp,Finance,KEY,17110661569,0.017110662
+"Targa Resources, Inc.",Utilities,TRGP,17070969496,0.017070969
+"Broadridge Financial Solutions, Inc.",Technology Services,BR,17058845379,0.017058845
+Fox Corporation,Consumer Services,FOX,17009331524,0.017009332
+Fox Corporation,Consumer Services,FOXA,17009331524,0.017009332
+Cincinnati Financial Corporation,Finance,CINF,16964902725,0.016964903
+"CF Industries Holdings, Inc.",Process Industries,CF,16933112537,0.016933113
+"Live Nation Entertainment, Inc.",Consumer Services,LYV,16888862664,0.016888863
+Quest Diagnostics Incorporated,Health Services,DGX,16869010972,0.016869011
+Howmet Aerospace Inc.,Electronic Technology,HWM,16825667752,0.016825668
+"United Airlines Holdings, Inc.",Transportation,UAL,16771398786,0.016771399
+"PerkinElmer, Inc.",Health Technology,PKI,16693913190,0.016693913
+J.M. Smucker Company (The) New,Consumer Non-Durables,SJM,16566370477,0.016566370
+"Etsy, Inc.",Retail Trade,ETSY,16544352690,0.016544353
+Atmos Energy Corporation,Utilities,ATO,16398008384,0.016398008
+Campbell Soup Company,Consumer Non-Durables,CPB,16389859412,0.016389859
+FMC Corporation,Process Industries,FMC,16297471279,0.016297471
+"Skyworks Solutions, Inc.",Electronic Technology,SWKS,16216306973,0.016216307
+Jacobs Solutions Inc.,Industrial Services,J,16183451146,0.016183451
+"Expedia Group, Inc.",Consumer Services,EXPE,16085945747,0.016085946
+Mosaic Company (The),Process Industries,MOS,15995798073,0.015995798
+D/B/A Royal Caribbean Cruises Ltd.,Consumer Services,RCL,15933565109,0.015933565
+FactSet Research Systems Inc.,Technology Services,FDS,15831666445,0.015831666
+"NVR, Inc.",Consumer Durables,NVR,15768505720,0.015768506
+Avery Dennison Corporation,Process Industries,AVY,15625400560,0.015625401
+LKQ Corporation,Consumer Durables,LKQ,15496149292,0.015496149
+PTC Inc.,Technology Services,PTC,15399400065,0.015399400
+Iron Mountain Incorporated (Delaware),Finance,IRM,15160736575,0.015160737
+Synchrony Financial,Finance,SYF,15129182477,0.015129182
+Zebra Technologies Corporation,Electronic Technology,ZBRA,15127529957,0.015127530
+SVB Financial Group,Finance,SIVB,15001809688,0.015001810
+"Teradyne, Inc.",Electronic Technology,TER,14974394631,0.014974395
+MGM Resorts International,Consumer Services,MGM,14949910170,0.014949910
+Textron Inc.,Electronic Technology,TXT,14914634263,0.014914634
+"Franklin Resources, Inc.",Finance,BEN,14901832813,0.014901833
+"Healthpeak Properties, Inc.",Finance,PEAK,14822195369,0.014822195
+"Evergy, Inc.",Utilities,EVRG,14671965770,0.014671966
+APA Corporation,Energy Minerals,APA,14580560107,0.014580560
+"FleetCor Technologies, Inc.",Commercial Services,FLT,14346308893,0.014346309
+Gen Digital Inc.,Technology Services,GEN,14303862001,0.014303862
+"Essex Property Trust, Inc.",Finance,ESS,14278216141,0.014278216
+Loews Corporation,Finance,L,14217131872,0.014217132
+Viatris Inc.,Health Technology,VTRS,14139901905,0.014139902
+Alliant Energy Corporation,Utilities,LNT,14007018220,0.014007018
+"Lamb Weston Holdings, Inc.",Consumer Non-Durables,LW,13964079135,0.013964079
+"Interpublic Group of Companies, Inc. (The)",Commercial Services,IPG,13959693281,0.013959693
+"Akamai Technologies, Inc.",Technology Services,AKAM,13937956872,0.013937957
+Nordson Corporation,Producer Manufacturing,NDSN,13840525072,0.013840525
+"NetApp, Inc.",Electronic Technology,NTAP,13807474639,0.013807475
+"Everest Re Group, Ltd.",Finance,RE,13692487399,0.013692487
+"Bio-Rad Laboratories, Inc.",Health Technology,BIO,13554965601,0.013554966
+Pool Corporation,Distribution Services,POOL,13542363879,0.013542364
+"Leidos Holdings, Inc.",Electronic Technology,LDOS,13492626336,0.013492626
+International Paper Company,Process Industries,IP,13451439799,0.013451440
+Kimco Realty Corporation (HC),Finance,KIM,13421094191,0.013421094
+Trimble Inc.,Electronic Technology,TRMB,13352260827,0.013352261
+Paramount Global,Consumer Services,PARA,13273635762,0.013273636
+"Jack Henry & Associates, Inc.",Technology Services,JKHY,13246887157,0.013246887
+Snap-On Incorporated,Consumer Durables,SNA,13195108175,0.013195108
+Celanese Corporation Celanese Corporation,Process Industries,CE,13189190377,0.013189190
+"Tyler Technologies, Inc.",Technology Services,TYL,13181526708,0.013181527
+"UDR, Inc.",Finance,UDR,13171420063,0.013171420
+"Stanley Black & Decker, Inc.",Consumer Durables,SWK,13170433469,0.013170433
+"Cboe Global Markets, Inc.",Finance,CBOE,13129789649,0.013129790
+Bio-Techne Corp,Health Technology,TECH,12898185845,0.012898186
+"Match Group, Inc.",Technology Services,MTCH,12864838949,0.012864839
+EQT Corporation,Energy Minerals,EQT,12831927474,0.012831927
+Carnival Corporation,Consumer Services,CCL,12731758647,0.012731759
+Camden Property Trust,Finance,CPT,12605462032,0.012605462
+Packaging Corporation of America,Process Industries,PKG,12581912982,0.012581913
+Host Hotels,Finance,HST,12441482943,0.012441483
+"MarketAxess Holdings, Inc.",Finance,MKTX,12179652569,0.012179653
+Western Digital Corporation,Electronic Technology,WDC,12058003904,0.012058004
+Domino’s Pizza Inc,Consumer Services,DPZ,11952616095,0.011952616
+V.F. Corporation,Consumer Non-Durables,VFC,11948407608,0.011948408
+Seagate Technology Holdings PLC,Electronic Technology,STX,11926868527,0.011926869
+"Charles River Laboratories International, Inc.",Commercial Services,CRL,11816567503,0.011816568
+Globe Life Inc.,Finance,GL,11806659707,0.011806660
+Masco Corporation,Producer Manufacturing,MAS,11698195682,0.011698196
+"PulteGroup, Inc.",Consumer Durables,PHM,11461610296,0.011461610
+Regency Centers Corporation,Finance,REG,11427246579,0.011427247
+NiSource Inc,Utilities,NI,11331147886,0.011331148
+News Corporation,Consumer Services,NWS,11209910324,0.011209910
+News Corporation,Consumer Services,NWSA,11209910324,0.011209910
+Teleflex Incorporated,Health Technology,TFX,11189060238,0.011189060
+"Wynn Resorts, Limited",Consumer Services,WYNN,11173853278,0.011173853
+"Boston Properties, Inc.",Finance,BXP,11164070991,0.011164071
+"C.H. Robinson Worldwide, Inc.",Transportation,CHRW,11005834980,0.011005835
+Molson Coors Beverage Company,Consumer Non-Durables,TAP,10982976380,0.010982976
+Eastman Chemical Company,Process Industries,EMN,10950320882,0.010950321
+"American Airlines Group, Inc.",Transportation,AAL,10937831742,0.010937832
+"Henry Schein, Inc.",Distribution Services,HSIC,10777388129,0.010777388
+CarMax Inc,Retail Trade,KMX,10568611148,0.010568611
+"Bath & Body Works, Inc.",Retail Trade,BBWI,10539050050,0.010539050
+BorgWarner Inc.,Producer Manufacturing,BWA,10445606990,0.010445607
+"Tapestry, Inc.",Retail Trade,TPR,10385431822,0.010385432
+"Juniper Networks, Inc.",Electronic Technology,JNPR,10285165299,0.010285165
+Ceridian HCM Holding Inc.,Technology Services,CDAY,10252457165,0.010252457
+"Caesars Entertainment, Inc.",Consumer Services,CZR,10129666156,0.010129666
+"Qorvo, Inc.",Electronic Technology,QRVO,10104475247,0.010104475
+Allegion plc,Producer Manufacturing,ALLE,9971265492,0.009971265
+Westrock Company,Process Industries,WRK,9511864190,0.009511864
+A.O. Smith Corporation,Producer Manufacturing,AOS,9380417640,0.009380418
+"Universal Health Services, Inc.",Health Services,UHS,9379967097,0.009379967
+"Huntington Ingalls Industries, Inc.",Electronic Technology,HII,9116760447,0.009116760
+"Hasbro, Inc.",Consumer Durables,HAS,9098931742,0.009098932
+Comerica Incorporated,Finance,CMA,9023931955,0.009023932
+Advance Auto Parts Inc.,Retail Trade,AAP,9017823109,0.009017823
+Federal Realty Investment Trust,Finance,FRT,8938206224,0.008938206
+Invesco Ltd,Finance,IVZ,8900134619,0.008900135
+"F5, Inc.",Technology Services,FFIV,8891088863,0.008891089
+"Catalent, Inc.",Health Technology,CTLT,8881203017,0.008881203
+Pinnacle West Capital Corporation,Utilities,PNW,8621283305,0.008621283
+Whirlpool Corporation,Consumer Durables,WHR,8397293669,0.008397294
+Robert Half International Inc.,Commercial Services,RHI,8255653723,0.008255654
+Pentair plc.,Producer Manufacturing,PNR,8201887934,0.008201888
+DISH Network Corporation,Consumer Services,DISH,7992435656,0.007992436
+Organon & Co.,Health Technology,OGN,7981954985,0.007981955
+Sealed Air Corporation,Process Industries,SEE,7902640280,0.007902640
+Ralph Lauren Corporation,Distribution Services,RL,7881330616,0.007881331
+DENTSPLY SIRONA Inc.,Health Technology,XRAY,7736828247,0.007736828
+Zions Bancorporation N.A.,Finance,ZION,7697833458,0.007697833
+"Mohawk Industries, Inc.",Non-Energy Minerals,MHK,7568173937,0.007568174
+"NRG Energy, Inc.",Utilities,NRG,7515132392,0.007515132
+Signature Bank,Finance,SBNY,7365097360,0.007365097
+Generac Holdlings Inc.,Producer Manufacturing,GNRC,7194119794,0.007194120
+DaVita Inc.,Health Services,DVA,7047621991,0.007047622
+"Assurant, Inc.",Finance,AIZ,6656759995,0.006656760
+DXC Technology Company,Technology Services,DXC,6630479457,0.006630479
+Norwegian Cruise Line Holdings Ltd.,Consumer Services,NCLH,6468430106,0.006468430
+"Alaska Air Group, Inc.",Transportation,ALK,6265788975,0.006265789
+Newell Brands Inc.,Producer Manufacturing,NWL,6261904234,0.006261904
+"Lumen Technologies, Inc.",Communications,LUMN,6248879853,0.006248880
+Lincoln National Corporation,Finance,LNC,5335363865,0.005335364
